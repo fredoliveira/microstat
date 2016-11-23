@@ -1,7 +1,7 @@
 require "redis"
 
 class Microstat
-  def initialize(redis: "redis://localhost:6379", namespace: 'mustat')
+  def initialize(redis: "redis://localhost:6379", namespace: 'mstat')
     @redis = Redis.new(url: redis)
     @key_space = "#{namespace}:events"
   end
