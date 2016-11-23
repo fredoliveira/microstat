@@ -1,5 +1,7 @@
 # Microstat
 
+[![Code Climate](https://codeclimate.com/github/fredoliveira/microstat/badges/gpa.svg)](https://codeclimate.com/github/fredoliveira/microstat) [![Issue Count](https://codeclimate.com/github/fredoliveira/microstat/badges/issue_count.svg)](https://codeclimate.com/github/fredoliveira/microstat) [![Test Coverage](https://codeclimate.com/github/fredoliveira/microstat/badges/coverage.svg)](https://codeclimate.com/github/fredoliveira/microstat/coverage)
+
 Microstat is a utility class that provides a way to keep track of
 arbitrary event runs. Send it data whenever something relevant happens
 and it'll keep track of the number of times it happens per day, which
