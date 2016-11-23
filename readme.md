@@ -1,4 +1,4 @@
-# Microstat
+<img src="http://helloform.com/images/microstat.png" width="250px">
 
 [![Code Climate](https://codeclimate.com/github/fredoliveira/microstat/badges/gpa.svg)](https://codeclimate.com/github/fredoliveira/microstat) [![Issue Count](https://codeclimate.com/github/fredoliveira/microstat/badges/issue_count.svg)](https://codeclimate.com/github/fredoliveira/microstat) [![Test Coverage](https://codeclimate.com/github/fredoliveira/microstat/badges/coverage.svg)](https://codeclimate.com/github/fredoliveira/microstat/coverage)
 
